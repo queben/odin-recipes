@@ -1,0 +1,13 @@
+.main-title {
+    font-size: 60px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: antiquewhite;
+    color: black;
+}
+
+a {
+    font-size: 20px;
+    line-height: 200%;
+    font-size: 30px;
+}
