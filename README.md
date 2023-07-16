@@ -1,6 +1,9 @@
-# odin-recipes
+# Odin-Recipes
 
-Building a basic recipe website
+Basic recipe website with 3 delicious recipes
 
-Using HTML, no CSS. Just practicing linking images and pages
-Also practicing Git and terminal
+Vanilla HTML, JS, CSS
+
+Live preview below
+
+https://queben.github.io/odin-recipes/
